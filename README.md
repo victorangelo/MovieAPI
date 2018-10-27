@@ -13,7 +13,6 @@ There should be two parameters: one to specify which API is to be used and one t
 As this example considers only two APIs, then apiName can be omdb or themoviedb.
 Example: 
 http://localhost:8080/movies/Viktor?api=omdb
-
 http://localhost:8080/movies/Viktor?api=themoviedb
 
 There is a Test Class to be Run as well.
