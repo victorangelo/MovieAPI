@@ -12,7 +12,7 @@ you can find them on http://localhost:8080/swagger-ui.html in your browser on a 
 There should be two parameters: one to specify which API is to be used and one to specify the movie title. i.e. http://localhost:8080/movies/{movieTitle}?api={apiName}
 As this example considers only two APIs, then apiName can be omdb or themoviedb.
 Example: 
-localhost:8080/movies/Viktor?api=omdb
-localhost:8080/movies/Viktor?api=themoviedb
+http:localhost:8080/movies/Viktor?api=omdb
+http:localhost:8080/movies/Viktor?api=themoviedb
 
 There is a Test Class to be Run as well.
